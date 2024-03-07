@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image display](https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1709814988~exp=1709818588~hmac=7cf75dcba3656fefa79b7bb672cc32bd919d636a9ccf2ea7bcadd7d0ec584569&w=1800)
+![image display](https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1709814988~exp=1709818588~hmac=7cf75dcba3656fefa79b7bb672cc32bd919d636a9ccf2ea7bcadd7d0ec584569&w=1800) <!-- Source of pic:www.freepick.com -->
 
  **DarianaDey8/DarianaDey8** repo is a ✨ _about me_ ✨ and ✨ _my goals and dreams_ ✨ on my Software Development journey.
 
